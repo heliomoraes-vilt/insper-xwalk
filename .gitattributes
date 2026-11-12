@@ -1,0 +1,8 @@
+# O repositório guarda e entrega tudo em LF. Sem isto, um checkout no Windows com
+# core.autocrlf=true converte para CRLF e a regra linebreak-style do eslint falha.
+* text=auto eol=lf
+*.woff2 binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.ico binary

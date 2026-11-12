@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p34812-e1712500.adobeaemcloud.com/bin/franklin.delivery/heliomoraes-vilt/insper-xwalk/main"
+    type: "markup"
+    suffix: ".html"
